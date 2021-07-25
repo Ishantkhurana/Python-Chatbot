@@ -1,0 +1,97 @@
+ textarea:focus, input:focus{
+    outline: none;
+}
+input{
+width:70%;
+}
+        i{
+        margin-top:10px;
+        padding-top: 10px;
+        }
+        h1{
+          color:#ccc;
+          border:2px solid rgb(119, 119, 119);
+          border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        width:100%;
+        padding-left:0px;
+        padding-right:0px;
+        }
+        .hell{
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        text-align: center;
+        height: 38px;
+        }
+        .container{
+          text-align: center;
+          font-family: monospace;
+          border:2px solid rgb(119, 119, 119);
+          padding-top: 10px;
+          margin-top: 5px;
+          border-radius: 5px;
+        }
+        body{
+          background-color: black;
+        }
+        .userText span{
+          background-color: #4E4E50;
+          border-radius: 4px;
+          padding:10px;
+          padding-left: 8px;
+        padding-right: 8px;
+        }
+        .botText span{
+            background-color: #244090;
+            
+            padding: 10px;
+            border-radius: 4px;
+            padding-left: 8px;
+        padding-right: 8px;
+        }
+          .botText {
+        color: white;
+        font-family: monospace;
+        font-size: 17px;
+        text-align: left;
+        line-height: 30px;
+        border-radius: 4px;
+        text-align: justify;
+        width: 70%;
+        padding-left: 8px;
+        padding-right: 8px;
+      }
+      .userText {
+        color: white;
+        font-family: monospace;
+        font-size: 17px;
+        text-align: right;
+        line-height: 30px;
+        padding-left: 8px;
+        padding-right: 8px;
+        }
+        footer{
+          position: fixed;
+          left: 0;
+          bottom: 0;
+           width: 100%;
+          background-color: #ccc;
+          color: red;
+          text-align: center;
+        }
+        body{
+          background-image: url("xyz.jpg");
+          height: 100%;
+
+          /* Center and scale the image nicely */
+          background-position:left;
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+        .userInput{
+          position: fixed;
+          bottom: 0;
+          left:0;
+        }
