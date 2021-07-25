@@ -14,6 +14,6 @@ def get_bot_response():
     return str(english_bot.get_response(userText))
 
 if __name__=="__main__":
-    app.run(debug=True)
+    app.run(debug=False,host='0.0.0.0')
 
 
