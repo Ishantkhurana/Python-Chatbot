@@ -1,0 +1,1 @@
+Hey!This is a chatbot created in python.You can use this by cloning it on your pc and installing python on your pc and installing requirements.txt file in cloned folder,then jst tap the url generated to enjoy the conversation with bot.Preview of this chatbot is shown below.
